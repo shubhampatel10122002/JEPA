@@ -44,7 +44,7 @@ $D(\tilde{s}\_n, s'\_n)$ is some "distance" function. However, minimizing the en
 
 Here's a diagram illustrating a recurrent JEPA for 4 timesteps:
 
-![Alt Text](assets/hjepa.png)
+![Alt Text](assests/hjepa.png)
 
 
 ### Environment and data set
