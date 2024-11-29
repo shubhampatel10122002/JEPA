@@ -1,4 +1,4 @@
-# CSCI-GA 2572 Final Project
+# JEPA World Model
 
 ## Overview
 
