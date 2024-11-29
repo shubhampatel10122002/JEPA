@@ -1,0 +1,2 @@
+# JEPA
+JEPA world model
