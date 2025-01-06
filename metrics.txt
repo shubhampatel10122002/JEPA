@@ -1,0 +1,6 @@
+probe_normal val loss: 26.98344802856445
+probe_wall val loss: 22.01968002319336
+probe_wall_other val loss: 23.55911636352539
+probe_expert val loss: 33.6656799316406
+number of training parameters: 2,973,748
+# training command to replicate your submitted model
