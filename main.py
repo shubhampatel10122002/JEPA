@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 15 22:32:04 2024
-
-@author: 22011
-"""
-
 from dataset import create_wall_dataloader
 from evaluator_vari2 import ProbingEvaluator
 import torch
